@@ -1,4 +1,4 @@
-# Ex. No: 16A - Constructing and Printing an AVL Tree in Python
+# Ex. No: 16B - Constructing and Printing an AVL Tree in Python
 
 ## AIM:
 To write a Python program to construct an **AVL tree** and print the nodes of it using the appropriate packages and built-in function.
