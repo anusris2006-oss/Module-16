@@ -1,4 +1,4 @@
-# Ex. No: 16B - Constructing and Balancing an AVL Tree in Python
+# Ex. No: 16A - Constructing and Balancing an AVL Tree in Python
 
 ## AIM:
 To write a Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function.
